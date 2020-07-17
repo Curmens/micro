@@ -1,0 +1,7 @@
+imutils==0.5.3
+pypng==0.0.20
+PyQRCode==1.2.1
+qrcode==6.1
+qrtools==0.0.2
+pyzbar
+opencv-python

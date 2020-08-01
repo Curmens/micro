@@ -1,4 +1,4 @@
-# weather-map
+# Vue Calculator
 
 ## Project setup
 ```
